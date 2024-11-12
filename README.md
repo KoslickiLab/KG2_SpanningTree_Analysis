@@ -79,3 +79,4 @@ We recommend you have the following specifications to successfuly run the script
 1. Gonzalez-Cavazos, A.C., Tanska, A., Mayers, M. et al. DrugMechDB: A Curated Database of Drug Mechanisms. Sci Data 10, 632 (2023). [https://doi.org/10.1038/s41597-023-02534-z](https://www.nature.com/articles/s41597-023-02534-z)
 2. DrugMechDB: [GitHub Repository](https://github.com/SuLab/DrugMechDB)
 3. Wood, E.C., Glen, A.K., Kvarfordt, L.G. et al. RTX-KG2: a system for building a semantically standardized knowledge graph for translational biomedicine. BMC Bioinformatics 23, 400 (2022). [https://doi.org/10.1186/s12859-022-04932-3](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04932-3)
+4. P. Peixoto T. The graph-tool python library [Internet]. figshare; 2014. Available from: https://figshare.com/articles/dataset/graph_tool/1164194/14
