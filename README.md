@@ -40,7 +40,7 @@ Then, we expanded our search up to __3-hop neighborhood__ identifying the links 
 If the vertex pair has a path within 3-hop, it will return the pair; essentially you are drawing a direct edge between those nodes.
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\large&space;A\rightarrow%20B\rightarrow%20C\text{ will be... }A\rightarrow%20C" title="Logical reduction"/>
+ <img src="https://latex.codecogs.com/svg.latex?\large&space;A\rightarrow%20B\rightarrow%20C\;\text{%20will%20be...%20}\;A\rightarrow%20C" title="Path reduction"/>
 </p>
 
 ## Data
